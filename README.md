@@ -1,1 +1,1 @@
-# virus-genome-assembly-from-NGS-data
+# virus-genome-assembly-using-NGS-data
