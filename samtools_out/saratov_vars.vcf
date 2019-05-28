@@ -28,7 +28,7 @@
 ##INFO=<ID=HWE,Number=1,Type=Float,Description="Chi^2 based HWE test P-value based on G3">
 ##INFO=<ID=DP4,Number=4,Type=Integer,Description="Number of high-quality ref-forward , ref-reverse, alt-forward and alt-reverse bases">
 ##bcftools_callVersion=1.7+htslib-1.7-2
-##bcftools_callCommand=call --consensus-caller --variants-only --ploidy-file ./samtools_out/ploid.txt ./samtools_out/saratov_vars.bcf; Date=Wed Feb 20 11:13:45 2019
+##bcftools_callCommand=call --consensus-caller --variants-only --ploidy-file ./samtools_out/ploid.txt ./samtools_out/saratov_vars.bcf; Date=Tue May 28 10:46:55 2019
 #CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	./samtools_out/saratov_map_unpaired_sorted_rmdup.bam
 AF409138.1	502	.	A	G	9.51895	.	DP=47;VDB=0.242997;SGB=-0.693145;MQSB=0.20277;MQ0F=0.340426;AF1=1;AC1=1;DP4=0,0,14,26;MQ=1;FQ=-999	GT:PL	1:39,0
 AF409138.1	759	.	C	T	10.418	.	DP=24;VDB=0.001429;SGB=-0.692562;MQSB=0.760398;MQ0F=0.166667;AF1=1;AC1=1;DP4=0,0,7,15;MQ=1;FQ=-999	GT:PL	1:40,0
