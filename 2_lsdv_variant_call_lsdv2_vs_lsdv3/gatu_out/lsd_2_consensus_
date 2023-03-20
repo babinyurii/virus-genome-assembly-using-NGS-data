@@ -1,0 +1,1100 @@
+>Feature lsd_2_consensus_
+709	230	gene
+			gene	LD001
+709	230	CDS
+			gene	LD001
+			codon_start	1
+			product	hypothetical protein
+			note	similar to ORF LD156
+1175	780	gene
+			gene	LD002
+1175	780	CDS
+			gene	LD002
+			codon_start	1
+			product	hypothetical protein
+			note	similar to ORF LD155
+2147	1425	gene
+			gene	LD003
+2147	1425	CDS
+			gene	LD003
+			codon_start	1
+			product	putative ER-localized apoptosis regulator
+			note	similar to myxoma virus M004; similar to ORF LD154
+2442	2954	gene
+			gene	LD005
+2442	2954	CDS
+			gene	LD005
+			codon_start	1
+			product	interleukin-10-like protein
+			note	
+3660	2965	gene
+			gene	LD006
+3660	2965	CDS
+			gene	LD006
+			codon_start	1
+			product	interleukin-1 receptor-like protein
+			note	
+4749	3682	gene
+			gene	LD007
+4749	3682	CDS
+			gene	LD007
+			codon_start	1
+			product	hypothetical protein
+			note	
+5660	4833	gene
+			gene	LD008
+5660	4833	CDS
+			gene	LD008
+			codon_start	1
+			product	putative soluble interferon gamma receptor
+			note	similar to myxoma virus M007
+6385	5693	gene
+			gene	LD009
+6385	5693	CDS
+			gene	LD009
+			codon_start	1
+			product	putative alpha amanitin-sensitive protein
+			note	similar to vaccinia virus strain Copenhagen N2L
+6927	6439	gene
+			gene	LD010
+6927	6439	CDS
+			gene	LD010
+			codon_start	1
+			product	LAP|PHD-finger protein
+			note	
+8104	6971	gene
+			gene	LD011
+8104	6971	CDS
+			gene	LD011
+			codon_start	1
+			product	CC chemokine receptor-like protein
+			note	similar to INSDC accession S78201
+8846	8211	gene
+			gene	LD012
+8846	8211	CDS
+			gene	LD012
+			codon_start	1
+			product	ankyrin repeat protein
+			note	similar to INSDC accession S78201
+9910	8885	gene
+			gene	LD013a
+9910	8885	CDS
+			gene	LD013a
+			codon_start	1
+			product	interleukin-1 receptor-like protein
+			note	LD013a differs from LSDV013 due to a frameshift at the C-terminus end producing a stop; similar to INSDC accession S78201
+10239	9970	gene
+			gene	LD014
+10239	9970	CDS
+			gene	LD014
+			codon_start	1
+			product	putative eIF2 alpha-like PKR inhibitor
+			note	similar to vaccinia virus strain Copenhagen K3L
+10711	10226	gene
+			gene	LD015
+10711	10226	CDS
+			gene	LD015
+			codon_start	1
+			product	putative interleukin-18 binding protein
+			note	
+11017	10748	gene
+			gene	LD016
+11017	10748	CDS
+			gene	LD016
+			codon_start	1
+			product	EGF-like growth factor
+			note	
+11538	11008	gene
+			gene	LD017
+11538	11008	CDS
+			gene	LD017
+			codon_start	1
+			product	putative integral membrane protein
+			note	apoptosis regulator; similar to myxoma virus M011L
+12020	11580	gene
+			gene	LD018
+12020	11580	CDS
+			gene	LD018
+			codon_start	1
+			product	dUTPase
+			note	
+12939	12067	gene
+			gene	LD019a
+12939	12067	CDS
+			gene	LD019a
+			codon_start	1
+			product	kelch-like protein
+			note	LD019a and LD019b appear to be a frameshifted homolog of LSDV019
+13778	12966	gene
+			gene	LD019b
+13778	12966	CDS
+			gene	LD019b
+			codon_start	1
+			product	kelch-like protein
+			note	LD019a and LD019b appear to be a frameshifted homolog of LSDV019
+14808	13843	gene
+			gene	LD020
+14808	13843	CDS
+			gene	LD020
+			codon_start	1
+			product	ribonucleotide reductase small subunit
+			note	
+15109	14849	gene
+			gene	LD021
+15109	14849	CDS
+			gene	LD021
+			codon_start	1
+			product	hypothetical protein
+			note	
+15494	15150	gene
+			gene	LD022
+15494	15150	CDS
+			gene	LD022
+			codon_start	1
+			product	hypothetical protein
+			note	
+15943	15725	gene
+			gene	LD023
+15943	15725	CDS
+			gene	LD023
+			codon_start	1
+			product	hypothetical protein
+			note	
+16670	16020	gene
+			gene	LD024
+16670	16020	CDS
+			gene	LD024
+			codon_start	1
+			product	hypothetical protein
+			note	
+17991	16648	gene
+			gene	LD025
+17991	16648	CDS
+			gene	LD025
+			codon_start	1
+			product	putative ser|thr protein kinase
+			note	similar to vaccinia virus strain Copenhagen F10L
+18488	18027	gene
+			gene	LD026a
+18488	18027	CDS
+			gene	LD026a
+			codon_start	1
+			product	hypothetical protein
+			note	LD026a and LD026b appear to be produced by an inframe stop in the homolog of LSDV026
+18935	18612	gene
+			gene	LD026b
+18935	18612	CDS
+			gene	LD026b
+			codon_start	1
+			product	hypothetical protein
+			note	LD026a and LD026b appear to be produced by an inframe stop in the homolog of LSDV026
+20860	18944	gene
+			gene	LD027
+20860	18944	CDS
+			gene	LD027
+			codon_start	1
+			product	putative EEV maturation protein
+			note	similar to vaccinia virus strain Copenhagen F12L
+21979	20867	gene
+			gene	LD028
+21979	20867	CDS
+			gene	LD028
+			codon_start	1
+			product	putative palmitylated virion envelope protein
+			note	similar to vaccinia virus strain Copenhagen F13L; similar to INSDC accession AF199595
+22618	22181	gene
+			gene	LD029
+22618	22181	CDS
+			gene	LD029
+			codon_start	1
+			product	hypothetical protein
+			note	
+23354	22695	gene
+			gene	LD030
+23354	22695	CDS
+			gene	LD030
+			codon_start	1
+			product	hypothetical protein
+			note	
+23428	23742	gene
+			gene	LD031
+23428	23742	CDS
+			gene	LD031
+			codon_start	1
+			product	putative DNA-binding virion core phosphoprotein
+			note	similar to vaccinia virus strain Copenhagen F17L
+25170	23746	gene
+			gene	LD032
+25170	23746	CDS
+			gene	LD032
+			codon_start	1
+			product	poly(A) polymerase large subunit
+			note	similar to vaccinia virus strain Copenhagen E1L, PAPL
+27374	25167	gene
+			gene	LD033
+27374	25167	CDS
+			gene	LD033
+			codon_start	1
+			product	hypothetical protein
+			note	
+27919	27386	gene
+			gene	LD034
+27919	27386	CDS
+			gene	LD034
+			codon_start	1
+			product	putative PKR inhibitor
+			note	similar to vaccinia virus strain Copenhagen E3L
+28585	27980	gene
+			gene	LD036
+28585	27980	CDS
+			gene	LD036
+			codon_start	1
+			product	RNA polymerase subunit
+			note	similar to vaccinia virus strain Copenhagen E4L, RPO30
+28584	29792	gene
+			gene	LD035
+28584	29792	CDS
+			gene	LD035
+			codon_start	1
+			product	hypothetical protein
+			note	
+29801	31501	gene
+			gene	LD037
+29801	31501	CDS
+			gene	LD037
+			codon_start	1
+			product	hypothetical protein
+			note	
+31508	32308	gene
+			gene	LD038
+31508	32308	CDS
+			gene	LD038
+			codon_start	1
+			product	hypothetical protein
+			note	
+35337	32305	gene
+			gene	LD039
+35337	32305	CDS
+			gene	LD039
+			codon_start	1
+			product	DNA polymerase
+			note	
+35371	35658	gene
+			gene	LD040
+35371	35658	CDS
+			gene	LD040
+			codon_start	1
+			product	putative redox protein
+			note	similar to vaccinia virus strain Copenhagen E10R
+36047	35655	gene
+			gene	LD041
+36047	35655	CDS
+			gene	LD041
+			codon_start	1
+			product	putative virion core protein
+			note	similar to vaccinia virus strain Copenhagen E11L
+38088	36034	gene
+			gene	LD042
+38088	36034	CDS
+			gene	LD042
+			codon_start	1
+			product	hypothetical protein
+			note	
+39138	38194	gene
+			gene	LD043
+39138	38194	CDS
+			gene	LD043
+			codon_start	1
+			product	putative DNA-binding virion core protein
+			note	similar to vaccinia virus strain Copenhagen I1L
+39363	39145	gene
+			gene	LD044
+39363	39145	CDS
+			gene	LD044
+			codon_start	1
+			product	hypothetical protein
+			note	
+40194	39364	gene
+			gene	LD045
+40194	39364	CDS
+			gene	LD045
+			codon_start	1
+			product	putative DNA-binding phosphoprotein
+			note	similar to vaccinia virus strain Copenhagen I3L
+40476	40240	gene
+			gene	LD046
+40476	40240	CDS
+			gene	LD046
+			codon_start	1
+			product	hypothetical protein
+			note	
+41678	40494	gene
+			gene	LD047
+41678	40494	CDS
+			gene	LD047
+			codon_start	1
+			product	hypothetical protein
+			note	
+42972	41671	gene
+			gene	LD048
+42972	41671	CDS
+			gene	LD048
+			codon_start	1
+			product	putative virion core protein
+			note	similar to vaccinia virus strain Copenhagen I7L
+42978	45008	gene
+			gene	LD049
+42978	45008	CDS
+			gene	LD049
+			codon_start	1
+			product	putative RNA helicase
+			note	similar to vaccinia virus strain Copenhagen I8R, NPH-II
+46795	45005	gene
+			gene	LD050
+46795	45005	CDS
+			gene	LD050
+			codon_start	1
+			product	putative metalloprotease
+			note	similar to vaccinia virus strain Copenhagen G1L
+47124	46792	gene
+			gene	LD052
+47124	46792	CDS
+			gene	LD052
+			codon_start	1
+			product	hypothetical protein
+			note	
+47118	47786	gene
+			gene	LD051
+47118	47786	CDS
+			gene	LD051
+			codon_start	1
+			product	putative transcriptional elongation factor
+			note	similar to vaccinia virus strain Copenhagen G2R
+48130	47750	gene
+			gene	LD053
+48130	47750	CDS
+			gene	LD053
+			codon_start	1
+			product	putative glutaredoxin
+			note	similar to vaccinia virus strain Copenhagen G4L
+48133	49446	gene
+			gene	LD054
+48133	49446	CDS
+			gene	LD054
+			codon_start	1
+			product	hypothetical protein
+			note	
+49447	49638	gene
+			gene	LD055
+49447	49638	CDS
+			gene	LD055
+			codon_start	1
+			product	RNA polymerase subunit
+			note	similar to vaccinia virus strain Copenhagen G5.5R, RPO7
+49638	50162	gene
+			gene	LD056
+49638	50162	CDS
+			gene	LD056
+			codon_start	1
+			product	hypothetical protein
+			note	
+51297	50176	gene
+			gene	LD057
+51297	50176	CDS
+			gene	LD057
+			codon_start	1
+			product	putative virion core protein
+			note	similar to vaccinia virus strain Copenhagen G7L
+51327	52109	gene
+			gene	LD058
+51327	52109	CDS
+			gene	LD058
+			codon_start	1
+			product	putative late transcription factor
+			note	similar to vaccinia virus strain Copenhagen G8R, VLTF-1
+52136	53146	gene
+			gene	LD059
+52136	53146	CDS
+			gene	LD059
+			codon_start	1
+			product	putative myristylated protein
+			note	similar to vaccinia virus strain Copenhagen G9R
+53147	53884	gene
+			gene	LD060
+53147	53884	CDS
+			gene	LD060
+			codon_start	1
+			product	putative myristylated IMV envelope protein
+			note	similar to vaccinia virus strain Copenhagen L1R
+53922	54200	gene
+			gene	LD061
+53922	54200	CDS
+			gene	LD061
+			codon_start	1
+			product	hypothetical protein
+			note	
+55166	54210	gene
+			gene	LD062
+55166	54210	CDS
+			gene	LD062
+			codon_start	1
+			product	hypothetical protein
+			note	
+55191	55952	gene
+			gene	LD063
+55191	55952	CDS
+			gene	LD063
+			codon_start	1
+			product	putative DNA-binding virion core protein
+			note	similar to vaccinia virus strain Copenhagen L4R, VP8
+55968	56363	gene
+			gene	LD064
+55968	56363	CDS
+			gene	LD064
+			codon_start	1
+			product	putative membrane protein
+			note	similar to vaccinia virus strain Copenhagen L5R
+56320	56763	gene
+			gene	LD065
+56320	56763	CDS
+			gene	LD065
+			codon_start	1
+			product	hypothetical protein
+			note	
+56791	57324	gene
+			gene	LD066
+56791	57324	CDS
+			gene	LD066
+			codon_start	1
+			product	thymidine kinase
+			note	
+57396	57992	gene
+			gene	LD067
+57396	57992	CDS
+			gene	LD067
+			codon_start	1
+			product	putative host range protein
+			note	similar to vaccinia virus strain Copenhagen C7L
+58050	59051	gene
+			gene	LD068
+58050	59051	CDS
+			gene	LD068
+			codon_start	1
+			product	poly(A) polymerase small subunit
+			note	similar to vaccinia virus strain Copenhagen J3R, PAPS
+58966	59523	gene
+			gene	LD069
+58966	59523	CDS
+			gene	LD069
+			codon_start	1
+			product	RNA polymerase subunit
+			note	similar to vaccinia virus strain Copenhagen J4R, RPO22
+59930	59529	gene
+			gene	LD070
+59930	59529	CDS
+			gene	LD070
+			codon_start	1
+			product	hypothetical protein
+			note	
+60016	63873	gene
+			gene	LD071
+60016	63873	CDS
+			gene	LD071
+			codon_start	1
+			product	RNA polymerase subunit
+			note	similar to vaccinia virus strain Copenhagen J6R, RPO147
+64393	63878	gene
+			gene	LD072
+64393	63878	CDS
+			gene	LD072
+			codon_start	1
+			product	putative protein-tyrosine phosphatase
+			note	similar to vaccinia virus strain Copenhagen H1L
+64409	64981	gene
+			gene	LD073
+64409	64981	CDS
+			gene	LD073
+			codon_start	1
+			product	hypothetical protein
+			note	
+65946	64978	gene
+			gene	LD074
+65946	64978	CDS
+			gene	LD074
+			codon_start	1
+			product	putative IMV envelope protein
+			note	similar to vaccinia virus strain Copenhagen H3L, p35; similar to INSDC accession AF124516
+68372	65976	gene
+			gene	LD075
+68372	65976	CDS
+			gene	LD075
+			codon_start	1
+			product	RNA polymerase-associated protein
+			note	similar to vaccinia virus strain Copenhagen H4L, RAP94
+68516	69187	gene
+			gene	LD076
+68516	69187	CDS
+			gene	LD076
+			codon_start	1
+			product	putative late transcription factor
+			note	similar to vaccinia virus strain Copenhagen H5R, VLTF-4
+69229	70182	gene
+			gene	LD077
+69229	70182	CDS
+			gene	LD077
+			codon_start	1
+			product	DNA topoisomerase
+			note	
+70202	70645	gene
+			gene	LD078
+70202	70645	CDS
+			gene	LD078
+			codon_start	1
+			product	hypothetical protein
+			note	
+70676	73204	gene
+			gene	LD079
+70676	73204	CDS
+			gene	LD079
+			codon_start	1
+			product	mRNA capping enzyme large subunit
+			note	similar to vaccinia virus strain Copenhagen D1R
+73633	73166	gene
+			gene	LD080
+73633	73166	CDS
+			gene	LD080
+			codon_start	1
+			product	putative virion protein
+			note	similar to vaccinia virus strain Copenhagen D2L
+74369	75025	gene
+			gene	LD082
+74369	75025	CDS
+			gene	LD082
+			codon_start	1
+			product	uracil DNA glycosylase
+			note	
+75068	77428	gene
+			gene	LD083
+75068	77428	CDS
+			gene	LD083
+			codon_start	1
+			product	putative NTPase
+			note	similar to vaccinia virus strain Copenhagen D5R
+77425	79332	gene
+			gene	LD084
+77425	79332	CDS
+			gene	LD084
+			codon_start	1
+			product	putative early transcription factor small subunit
+			note	similar to vaccinia virus strain Copenhagen D6R, VETFS
+79357	79848	gene
+			gene	LD085
+79357	79848	CDS
+			gene	LD085
+			codon_start	1
+			product	RNA polymerase subunit
+			note	similar to vaccinia virus strain Copenhagen D7R, RPO18
+79889	80530	gene
+			gene	LD086
+79889	80530	CDS
+			gene	LD086
+			codon_start	1
+			product	mutT motif protein
+			note	similar to vaccinia virus strain Copenhagen D9R
+80530	81291	gene
+			gene	LD087
+80530	81291	CDS
+			gene	LD087
+			codon_start	1
+			product	mutT motif protein
+			note	putative gene expression regulator; similar to vaccinia virus strain Copenhagen D10R
+83204	81297	gene
+			gene	LD088
+83204	81297	CDS
+			gene	LD088
+			codon_start	1
+			product	putative transcription termination factor
+			note	similar to vaccinia virus strain Copenhagen D11L, NPH-I
+84094	83231	gene
+			gene	LD089
+84094	83231	CDS
+			gene	LD089
+			codon_start	1
+			product	mRNA capping enzyme small subunit
+			note	similar to vaccinia virus strain Copenhagen D12L
+85783	84134	gene
+			gene	LD090
+85783	84134	CDS
+			gene	LD090
+			codon_start	1
+			product	putative rifampicin resistance protein
+			note	similar to vaccinia virus strain Copenhagen D13L
+86262	85810	gene
+			gene	LD091
+86262	85810	CDS
+			gene	LD091
+			codon_start	1
+			product	putative late transcription factor
+			note	similar to vaccinia virus strain Copenhagen A1L, VLTF-2
+86990	86292	gene
+			gene	LD092
+86990	86292	CDS
+			gene	LD092
+			codon_start	1
+			product	putative late transcription factor
+			note	similar to vaccinia virus strain Copenhagen A2L, VLTF-3
+87214	86987	gene
+			gene	LD093
+87214	86987	CDS
+			gene	LD093
+			codon_start	1
+			product	hypothetical protein
+			note	
+89208	87223	gene
+			gene	LD094
+89208	87223	CDS
+			gene	LD094
+			codon_start	1
+			product	putative virion core protein
+			note	similar to vaccinia virus strain Copenhagen A3L, P4b
+89818	89333	gene
+			gene	LD095
+89818	89333	CDS
+			gene	LD095
+			codon_start	1
+			product	putative virion core protein
+			note	similar to vaccinia virus strain Copenhagen A4L
+89859	90371	gene
+			gene	LD096
+89859	90371	CDS
+			gene	LD096
+			codon_start	1
+			product	RNA polymerase subunit
+			note	similar to vaccinia virus strain Copenhagen A5R, RPO19
+91495	90368	gene
+			gene	LD097
+91495	90368	CDS
+			gene	LD097
+			codon_start	1
+			product	hypothetical protein
+			note	
+93660	91516	gene
+			gene	LD098
+93660	91516	CDS
+			gene	LD098
+			codon_start	1
+			product	putative early transcription factor large subunit
+			note	similar to vaccinia virus strain Copenhagen A7L, VETFL
+93717	94589	gene
+			gene	LD099
+93717	94589	CDS
+			gene	LD099
+			codon_start	1
+			product	putative intermediate transcription factor subunit
+			note	similar to vaccinia virus strain Copenhagen A8R, VITF-3
+94849	94613	gene
+			gene	LD100
+94849	94613	CDS
+			gene	LD100
+			codon_start	1
+			product	putative IMV membrane protein
+			note	similar to vaccinia virus strain Copenhagen A9L
+97564	94850	gene
+			gene	LD101
+97564	94850	CDS
+			gene	LD101
+			codon_start	1
+			product	putative virion core protein
+			note	similar to vaccinia virus strain Copenhagen A10L, P4a
+97579	98532	gene
+			gene	LD102
+97579	98532	CDS
+			gene	LD102
+			codon_start	1
+			product	hypothetical protein
+			note	
+99101	98529	gene
+			gene	LD103
+99101	98529	CDS
+			gene	LD103
+			codon_start	1
+			product	putative virion core protein
+			note	similar to vaccinia virus strain Copenhagen A12L
+99369	99166	gene
+			gene	LD104
+99369	99166	CDS
+			gene	LD104
+			codon_start	1
+			product	putative IMV membrane protein
+			note	similar to vaccinia virus strain Copenhagen A13L
+99738	99451	gene
+			gene	LD105
+99738	99451	CDS
+			gene	LD105
+			codon_start	1
+			product	putative IMV membrane protein
+			note	similar to vaccinia virus strain Copenhagen A14L
+99916	99755	gene
+			gene	LD106
+99916	99755	CDS
+			gene	LD106
+			codon_start	1
+			product	putative virulence factor
+			note	similar to vaccinia virus strain Copenhagen A14.5L
+100193	99906	gene
+			gene	LD107
+100193	99906	CDS
+			gene	LD107
+			codon_start	1
+			product	hypothetical protein
+			note	
+101310	100177	gene
+			gene	LD108
+101310	100177	CDS
+			gene	LD108
+			codon_start	1
+			product	putative myristylated membrane protein
+			note	similar to vaccinia virus strain Copenhagen A16L
+101916	101326	gene
+			gene	LD109
+101916	101326	CDS
+			gene	LD109
+			codon_start	1
+			product	putative phosphorylated IMV membrane protein
+			note	similar to vaccinia virus strain Copenhagen A17L
+101931	103373	gene
+			gene	LD110
+101931	103373	CDS
+			gene	LD110
+			codon_start	1
+			product	putative DNA helicase transcriptional elongation factor
+			note	similar to vaccinia virus strain Copenhagen A18R
+103578	103354	gene
+			gene	LD111
+103578	103354	CDS
+			gene	LD111
+			codon_start	1
+			product	hypothetical protein
+			note	
+103926	103579	gene
+			gene	LD113
+103926	103579	CDS
+			gene	LD113
+			codon_start	1
+			product	hypothetical protein
+			note	
+103925	105217	gene
+			gene	LD112
+103925	105217	CDS
+			gene	LD112
+			codon_start	1
+			product	putative DNA polymerase processivity factor
+			note	similar to vaccinia virus strain Copenhagen A20R
+105186	105692	gene
+			gene	LD114
+105186	105692	CDS
+			gene	LD114
+			codon_start	1
+			product	hypothetical protein
+			note	
+105717	106874	gene
+			gene	LD115
+105717	106874	CDS
+			gene	LD115
+			codon_start	1
+			product	putative intermediate transcription factor subunit
+			note	similar to vaccinia virus strain Copenhagen A23R, VITF-3
+106905	110375	gene
+			gene	LD116
+106905	110375	CDS
+			gene	LD116
+			codon_start	1
+			product	RNA polymerase subunit
+			note	similar to vaccinia virus strain Copenhagen A24R, RPO132
+110835	110389	gene
+			gene	LD117
+110835	110389	CDS
+			gene	LD117
+			codon_start	1
+			product	putative fusion protein
+			note	similar to vaccinia virus strain Copenhagen A27L
+111258	110836	gene
+			gene	LD118
+111258	110836	CDS
+			gene	LD118
+			codon_start	1
+			product	hypothetical protein
+			note	
+112170	111259	gene
+			gene	LD119
+112170	111259	CDS
+			gene	LD119
+			codon_start	1
+			product	RNA polymerase subunit
+			note	similar to vaccinia virus strain Copenhagen A29L, RPO35
+112363	112139	gene
+			gene	LD120
+112363	112139	CDS
+			gene	LD120
+			codon_start	1
+			product	hypothetical protein
+			note	
+113306	112542	gene
+			gene	LD121
+113306	112542	CDS
+			gene	LD121
+			codon_start	1
+			product	putative DNA packaging protein
+			note	similar to vaccinia virus strain Copenhagen A32L
+113438	114028	gene
+			gene	LD122
+113438	114028	CDS
+			gene	LD122
+			codon_start	1
+			product	putative EEV glycoprotein
+			note	similar to vaccinia virus strain Copenhagen A33R
+114061	114576	gene
+			gene	LD123
+114061	114576	CDS
+			gene	LD123
+			codon_start	1
+			product	putative EEV protein
+			note	similar to vaccinia virus strain Copenhagen A34R
+114604	115179	gene
+			gene	LD124
+114604	115179	CDS
+			gene	LD124
+			codon_start	1
+			product	hypothetical protein
+			note	
+115216	116082	gene
+			gene	LD125
+115216	116082	CDS
+			gene	LD125
+			codon_start	1
+			product	hypothetical protein
+			note	
+116141	116686	gene
+			gene	LD126
+116141	116686	CDS
+			gene	LD126
+			codon_start	1
+			product	putative EEV glycoprotein
+			note	similar to vaccinia virus strain Copenhagen A36R
+116697	117518	gene
+			gene	LD127
+116697	117518	CDS
+			gene	LD127
+			codon_start	1
+			product	hypothetical protein
+			note	
+118427	117522	gene
+			gene	LD128
+118427	117522	CDS
+			gene	LD128
+			codon_start	1
+			product	CD47-like protein
+			note	
+118525	118896	gene
+			gene	LD129
+118525	118896	CDS
+			gene	LD129
+			codon_start	1
+			product	hypothetical protein
+			note	
+118965	119210	gene
+			gene	LD130
+118965	119210	CDS
+			gene	LD130
+			codon_start	1
+			product	hypothetical protein
+			note	
+119266	119751	gene
+			gene	LD131
+119266	119751	CDS
+			gene	LD131
+			codon_start	1
+			product	superoxide dismutase-like protein
+			note	
+119786	120316	gene
+			gene	LD132
+119786	120316	CDS
+			gene	LD132
+			codon_start	1
+			product	hypothetical protein
+			note	
+120346	122025	gene
+			gene	LD133
+120346	122025	CDS
+			gene	LD133
+			codon_start	1
+			product	DNA ligase-like protein
+			note	
+122180	128257	gene
+			gene	LD134
+122180	128257	CDS
+			gene	LD134
+			codon_start	1
+			product	B22R-like protein
+			note	similar to variola virus B22R
+128327	129409	gene
+			gene	LD135
+128327	129409	CDS
+			gene	LD135
+			codon_start	1
+			product	putative IFN-alpha|beta binding protein
+			note	similar to vaccinia virus strain Copenhagen B19R
+129457	129918	gene
+			gene	LD136
+129457	129918	CDS
+			gene	LD136
+			codon_start	1
+			product	hypothetical protein
+			note	
+129984	130991	gene
+			gene	LD137
+129984	130991	CDS
+			gene	LD137
+			codon_start	1
+			product	hypothetical protein
+			note	
+131021	131581	gene
+			gene	LD138
+131021	131581	CDS
+			gene	LD138
+			codon_start	1
+			product	Ig domain OX-2-like protein
+			note	
+131620	132537	gene
+			gene	LD139
+131620	132537	CDS
+			gene	LD139
+			codon_start	1
+			product	putative ser|thr protein kinase
+			note	similar to vaccinia virus strain Copenhagen B1R
+132569	133291	gene
+			gene	LD140
+132569	133291	CDS
+			gene	LD140
+			codon_start	1
+			product	putative RING finger host range protein
+			note	similar to rabbit fibroma virus N1R
+133355	134014	gene
+			gene	LD141
+133355	134014	CDS
+			gene	LD141
+			codon_start	1
+			product	putative EEV host range protein
+			note	similar to vaccinia virus strain Copenhagen B5R
+134016	134420	gene
+			gene	LD142
+134016	134420	CDS
+			gene	LD142
+			codon_start	1
+			product	putative secreted virulence factor
+			note	similar to vaccinia virus strain Copenhagen N1L
+134457	135365	gene
+			gene	LD143
+134457	135365	CDS
+			gene	LD143
+			codon_start	1
+			product	tyrosine protein kinase-like protein
+			note	
+135534	137177	gene
+			gene	LD144
+135534	137177	CDS
+			gene	LD144
+			codon_start	1
+			product	kelch-like protein
+			note	
+137223	139127	gene
+			gene	LD145
+137223	139127	CDS
+			gene	LD145
+			codon_start	1
+			product	ankyrin repeat protein
+			note	
+139256	140497	gene
+			gene	LD146
+139256	140497	CDS
+			gene	LD146
+			codon_start	1
+			product	phospholipase D-like protein
+			note	similar to vaccinia virus strain Copenhagen K4L
+140558	142054	gene
+			gene	LD147
+140558	142054	CDS
+			gene	LD147
+			codon_start	1
+			product	ankyrin repeat protein
+			note	
+142102	143445	gene
+			gene	LD148
+142102	143445	CDS
+			gene	LD148
+			codon_start	1
+			product	ankyrin repeat protein
+			note	
+143466	144479	gene
+			gene	LD149
+143466	144479	CDS
+			gene	LD149
+			codon_start	1
+			product	serpin-like protein
+			note	
+144518	145003	gene
+			gene	LD150
+144518	145003	CDS
+			gene	LD150
+			codon_start	1
+			product	hypothetical protein
+			note	
+145046	146698	gene
+			gene	LD151
+145046	146698	CDS
+			gene	LD151
+			codon_start	1
+			product	kelch-like protein
+			note	
+146765	148234	gene
+			gene	LD152
+146765	148234	CDS
+			gene	LD152
+			codon_start	1
+			product	ankyrin repeat protein
+			note	
+148279	148554	gene
+			gene	LD153
+148279	148554	CDS
+			gene	LD153
+			codon_start	1
+			product	hypothetical protein
+			note	51 aa of LD004 is contained within the ITR of LD153
+148381	148554	gene
+			gene	LD004
+148381	148554	CDS
+			gene	LD004
+			codon_start	1
+			product	hypothetical protein
+			note	
+148624	149346	gene
+			gene	LD154
+148624	149346	CDS
+			gene	LD154
+			codon_start	1
+			product	putative ER-localized apoptosis regulator
+			note	similar to myxoma virus M004; similar to LD003
+149596	149991	gene
+			gene	LD155
+149596	149991	CDS
+			gene	LD155
+			codon_start	1
+			product	hypothetical protein
+			note	similar to LD002
+150062	150541	gene
+			gene	LD156
+150062	150541	CDS
+			gene	LD156
+			codon_start	1
+			product	hypothetical protein
+			note	similar to LD001
