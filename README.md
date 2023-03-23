@@ -1,5 +1,5 @@
 # virus-genome-assembly-using-NGS-data
-workflow and notes on large virus genome assembly and snp call 
+Notes on NGS data analysis: lumpy skin disease virus (lsdv) genome assembly and mutation analysis.
 
 ## tools used: 
 - [FastQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/). ([on github](https://github.com/s-andrews/FastQC))
